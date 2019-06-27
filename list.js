@@ -1,3 +1,3 @@
 function list() {
-  console.log('列表页')
+  console.log('列表页2222')
 }
